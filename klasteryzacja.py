@@ -10,7 +10,7 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import AgglomerativeClustering
 
 
-dane = pd.read_csv('Desktop/jewellery.csv')
+dane = pd.read_csv('jewellery.csv')
 
 
 dane.head()
